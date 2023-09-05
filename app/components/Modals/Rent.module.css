@@ -1,0 +1,7 @@
+.dropdown-container {
+    z-index: 1000;
+  }
+  .dropdown {
+    z-index: 2000;
+  }
+  
